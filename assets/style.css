@@ -1,0 +1,18 @@
+ body {
+            padding-top: 50px;
+        }
+        .navbar {
+            background-color: #3f51b5; /* Couleur de fond */
+        }
+        .navbar-brand, .navbar-text {
+            color: #ffffff; /* Couleur du texte */
+        }
+        .btn-light {
+            background-color: #ffffff; /* Couleur de fond */
+            color: #3f51b5; /* Couleur du texte */
+        }
+        
+        .btn-blue {
+            background-color: #3f51b5; /* Couleur de fond */
+            color: #ffffff; /* Couleur du texte */
+        }
